@@ -1,52 +1,24 @@
-<h1 align="center">Hi 👋, I'm TAARIQ SOLANKI</h1>
+<h1 align="center">Hi 👋, I'm Taariq Solanki</h1>
 <h3 align="center">A passionate developer from India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=taariq-solanki&label=Profile%20views&color=0e75b6&style=flat" alt="taariq-solanki" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+- 🌱 I’m currently learning and deeply immersing myself in **AWS**. My enthusiasm for AWS drives me to explore its vast capabilities, from cloud computing to DevOps, with the goal of mastering and implementing innovative solutions.
+- 🌟 I’m looking to collaborate on **DevOps Projects**.
 
-<h3 align="center">Professional Summary</h3>
-<p align="center">
-I'm a dedicated software developer with a keen interest in cloud computing, particularly with AWS. I am currently expanding my expertise in AWS to leverage its capabilities in building scalable and reliable applications. I have a strong foundation in Python, MySQL, and C++, and am enthusiastic about applying my skills to innovative projects.
-</p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/taariq_solanki) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taariq-solanki-873909316?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/taariq_solanki)
 
-- 🌱 I’m currently learning **AWS AND ITS SERVICES** and enhancing my skills in it
+## 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-- 📫 How to reach me **taariqsolanki07@gmail.com**
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=taariq-solanki&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=taariq-solanki&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=taariq-solanki&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/taariq_solanki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="taariq_solanki" height="30" width="40" /></a>
-</p>
+### ✍️ Random Dev Quote
+> "If you want to be inventive, you have to be willing to fail." – Jeff Bezos
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-  </a>
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=taariq-solanki&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<h3 align="left">Education</h3>
-<ul>
-  <li>2nd Year of BSc Computer Science - Mumbai University, Royal College</li>
-</ul>
-
-<h3 align="left">Skills</h3>
-<ul>
-  <li>Python</li>
-  <li>MySQL</li>
-  <li>C++</li>
-  <li>AWS</li>
-</ul>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=taariq-solanki&show_icons=true&locale=en&layout=compact" alt="taariq-solanki" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=taariq-solanki&show_icons=true&locale=en" alt="taariq-solanki" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
