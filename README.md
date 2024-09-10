@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **c++**
 
-- 📫 How to reach me **taariqsolanki@gmail.com**
+- 📫 How to reach me **taariqsolanki07@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
